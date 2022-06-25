@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-### DeepAction: A MATLAB toolbox for automated classification of animal behavior in video ([preprint](https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1))
+### DeepAction: A MATLAB toolbox for automated classification of animal behavior in video ([preprint](https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1), [code](https://github.com/carlwharris/DeepAction))
 
 **Harris, C.**, Finn, K., Tse, P. (2022). DeepAction: A MATLAB toolbox for automated classification of animal behavior in video. bioRxiv. https://doi.org/10.1101/2022.06.20.496909
 
