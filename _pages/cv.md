@@ -11,7 +11,7 @@ redirect_from:
 
 # Curriculum Vitae
 
-<font size="4"><b>PDF version: <a href="../files/cv.pdf">here</a><b></font> 
+<font size="4"><b>PDF version: <a href="../files/cv.pdf">here</a></b></font> 
 
 ## Education
 
@@ -23,8 +23,6 @@ GPA: 3.88/4.00
 * *Honors Thesis:* “DeepAction: A MATLAB toolbox for the automated and efficient classification of animal behavior in video”  
 * *Coursework:* Advanced topics in applied mathematics, discrete probability, applied computer science, graph theory, combinatorics, accelerated multivariable calculus, abstract algebra  
 * *Activities:* Men’s varsity lightweight rowing, study group leader (economics and neuroscience)
-
-
 
 ## Research experience
 
@@ -84,14 +82,3 @@ GPA: 3.88/4.00
 ### Publications
 
 See [publications page](https://carlwharris.github.io/publications/).
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
