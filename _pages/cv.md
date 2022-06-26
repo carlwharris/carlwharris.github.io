@@ -11,7 +11,7 @@ redirect_from:
 
 # Curriculum Vitae
 
-<font size="4">**PDF version: [here](../files/cv.pdf)**</font> 
+<font size="4"><b>PDF version: <a href="../files/cv.pdf">here</a><b></font> 
 
 ## Education
 
