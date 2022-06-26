@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carl Harris / Personal Website"
+title                    : "Carl Harris / Home"
 title_separator          : "-"
 name                     : &name "Carl Harris"
 description              : &description "Personal website"

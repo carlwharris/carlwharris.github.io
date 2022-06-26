@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+# Curriculum Vitae
+
+<font size="4">**PDF version: [here](../files/cv.pdf)**</font> 
+
 ## Education
 
 ### Dartmouth College
@@ -20,17 +24,6 @@ GPA: 3.88/4.00
 * *Coursework:* Advanced topics in applied mathematics, discrete probability, applied computer science, graph theory, combinatorics, accelerated multivariable calculus, abstract algebra  
 * *Activities:* Men’s varsity lightweight rowing, study group leader (economics and neuroscience)
 
-
-## Awards and honors
-
-### Dartmouth College
-
-* Magna cum laude
-* Dartmouth Economics Research Scholar (2019-2021)
-* Neukom Scholar (2020)
-* David C. Hodgson Endowment for Undergraduate Research Award (2020)
-* James O. Freedman Presidential Scholar (2019)
-* Academic citations for meritorious performance in The Price System (2017), Microeconomics (2018), Topics in Public Economics (2021), and Honors Neuroscience Research (2021)
 
 
 ## Research experience
@@ -72,6 +65,17 @@ GPA: 3.88/4.00
 * Responsible for the implementation of an online survey to examine the role of cognitive heuristics and biases on suboptimal annuity choice. Wrote HTML, CSS, and JavaScript code to generate questions and record results.
 * Managed data from ~3,000 respondents, administered payments from the Dartmouth Economics Department, and created a project website to communicate with respondents.
 
+
+## Awards and honors
+
+### Dartmouth College
+
+* Magna cum laude
+* Dartmouth Economics Research Scholar (2019-2021)
+* Neukom Scholar (2020)
+* David C. Hodgson Endowment for Undergraduate Research Award (2020)
+* James O. Freedman Presidential Scholar (2019)
+* Academic citations for meritorious performance in The Price System (2017), Microeconomics (2018), Topics in Public Economics (2021), and Honors Neuroscience Research (2021)
 
 ### Technical skills
 
