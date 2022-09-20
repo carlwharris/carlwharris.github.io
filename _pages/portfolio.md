@@ -28,7 +28,7 @@ redirect_from:
 </td>
 </tr>
 <tr style="width:100%;border:none;background-color:rgba(0, 0, 0, 0);">
-<td style="border:none; padding:0px;vertical-align:top;padding-top:10px" width="60%">
+<td style="border:none; padding:0px;vertical-align:top" width="60%">
 <p align="center">
 <img src="../files/home_cage_50.gif" width="32%">
 <img src="../files/CRIM13S-785.gif" width="32%">
@@ -37,7 +37,7 @@ redirect_from:
 </td>
 </tr>
 <tr style="width:100%;border:none;background-color:rgba(0, 0, 0, 0);">
-<td style="border:none; padding:0px;vertical-align:top;padding-top:5px" width="60%">
+<td style="border:none; padding:0px;vertical-align:top;" width="60%">
 <p align="center">
 <img src="../files/home_cage_182.gif" width="32%">
 <img src="../files/CRIM13S-1785.gif" width="32%">
