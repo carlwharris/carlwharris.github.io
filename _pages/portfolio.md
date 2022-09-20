@@ -96,7 +96,7 @@ redirect_from:
 </table>
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.7em">-->
 
-<table width="100%" style="border:none;margin:0; padding:0">
+<table width="100%" style="border:none;margin:0;padding:0">
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>HPC keypoint extraction</h1></div>
 <div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/Discovery-DLC-processing"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></h1></div>
@@ -106,26 +106,33 @@ redirect_from:
 
 <table width="100%" style="border:none;margin:0;padding:0;margin-top:-1.5em">
 <tr style="width:100%;border:none;margin:0">
-<td style="border:none;padding:0px;margin:0" width="100%">
-<p style="font-size:16px">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery</a> HPC cluster. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.
-</p>
-</td>
-</tr>
-<tr style="width:100%;border:none;margin:0">
-<td style="border:none;padding:0px;margin:0" width="100%">
-<img src="../files/pipeline_diagram.png" style="max-width:100%;height:auto;">
-</td>
-</tr>
+	<td style="border:none;padding:0px;margin:0" width="100%">
+		<p style="font-size:16px">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery</a> HPC cluster. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
+	</td>
+	</tr>
+	<tr style="width:100%;border:none;margin:0;">
+		<td style="border:none;padding:0px;margin:0" width="100%">
+			<img src="../files/pipeline_diagram.png" style="max-width:100%;height:auto;">
+		</td>
+	</tr>
 </table>
+
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:1em">
 
 <table width="100%" style="border:none;margin:0;padding:0">
 <td style="border:none;">
-<div style='float: left; text-align: left'><h1>Elliptic curve cryptography</h1></div>
-<div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/elliptic-curve-cryptosystems"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></h1></div>
+	<div style='float: left; text-align: left'>
+		<h1>Elliptic curve cryptography</h1>
+	</div>
+	<div style='float: right; text-align: right'>
+		<h1><a href="https://github.com/carlwharris/elliptic-curve-cryptosystems">
+				<img align="center" src="../files/GitHub_logo.png" style="height: 30px">
+			</a>
+		</h1>
+	</div>
 </td>
 </table>
 
-<p style="font-size:16px; margin:0; padding:0; margin-top:-1.5em">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
+<p style="font-size:16px; margin:0; padding:0; margin-top:-1em">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
 
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:1em">
