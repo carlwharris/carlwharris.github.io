@@ -97,6 +97,7 @@ redirect_from:
 </table>
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.7em">-->
 
+
 <table width="100%" style="border:none;margin:0;padding:0">
 <td style="border:none;padding:0px;margin:0" width="70%" align="left">
 	<h1 style="font-size:2.5em;">HPC keypoint extraction</h1>
@@ -108,18 +109,14 @@ redirect_from:
 </td>
 </table>
 
-<table width="100%" style="border:none;margin:0;padding:0;margin-top:-1.5em">
-<tr style="width:100%;border:none;margin:0">
-	<td style="border:none;padding:0px;margin:0" width="100%">
-		<p style="font-size:16px">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery</a> HPC cluster. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
-	</td>
-	</tr>
-	<tr style="width:100%;border:none;margin:0;">
-		<td style="border:none;padding:0px;margin:0;" width="100%" align="center">
-			<img src="../files/pipeline_diagram.png" style="max-width:70%;height:auto;margin-top:-1em">
-		</td>
-	</tr>
-</table>
+
+
+<div style="margin-top:-1em;">
+<img src="../files/pipeline_diagram.png" style="width:70%;height:auto;float:right;padding-left:1em">
+<p style="font-size:16px">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery</a> HPC cluster. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
+</div>
+
+
 
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.5em">
 
