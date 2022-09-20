@@ -49,20 +49,21 @@ redirect_from:
 </table>
 
 
-<hr style="margin:0;padding:0; height=3px">
+<hr style="margin:0;padding:0; height:3px">
 <table width="100%" style="border:none;margin:0; padding:0">
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>HPC keypoint extraction</h1></div>
 <div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/Discovery-DLC-processing"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></h1></div>
 </td>
 </table>
-<hr style="margin:0;padding:0; height=3px">
 
+<hr style="margin:0;padding:0; height:3px">
 <table width="100%" style="border:none;margin:0; padding:0">
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>Elliptic curve cryptography</h1></div>
 <div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/elliptic-curve-cryptosystems"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></h1></div>
 </td>
 </table>
+
 <p style="font-size:16px">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
-<hr style="margin:0;padding:0; height=3px">
+<hr style="margin:0;padding:0; height:3px">
