@@ -20,7 +20,7 @@ redirect_from:
 <table width="100%" style="border:none;" >
 <tr style="width:100%;border:none;">
 <td style="border:none;padding:0px" width="50%">
-In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.
+<p>In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.</p>
 </td>
 <td style="border:none;padding:0px;vertical-align:top;" rowspan ="2">
 <img src="../files/workflow.png" style="max-width:100%;height:auto;">
@@ -31,6 +31,7 @@ In this project, I created a MATLAB toolbox for automated classification of anim
 <p align="center">
 <img src="../files/home_cage_50.gif" width="32%">
 <img src="../files/CRIM13S-785.gif" width="32%">
+
 <img src="../files/CRIM13T-203.gif" width="32%">
 <img src="../files/home_cage_182.gif" width="32%">
 <img src="../files/CRIM13S-1785.gif" width="32%">
@@ -38,6 +39,13 @@ In this project, I created a MATLAB toolbox for automated classification of anim
 </p>
 </td>
 </tr>
+</table>
+
+<table width="100%" style="border:none;">
+<td style="border:none;">
+<div style='float: left; text-align: left'><h1>HPC keypoint extraction</h1></div>
+<div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/Discovery-DLC-processing"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></h1></div>
+</td>
 </table>
 
 
@@ -49,4 +57,4 @@ In this project, I created a MATLAB toolbox for automated classification of anim
 </td>
 </table>
 
-Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.
+<p>Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
