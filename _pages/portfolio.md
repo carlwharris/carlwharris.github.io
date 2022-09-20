@@ -10,26 +10,44 @@ redirect_from:
 {% include base_path %}
 
 
-<table width="100%" style="border:none;">
+<table width="100%" style="border:none;" >
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>DeepAction</h1></div>
-<div style='float: right; text-align: right'><a href="https://github.com/carlwharris/DeepAction"><img align="center" src="../files/GitHub_logo.png" style="height:25px">
-</a>&nbsp;<a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1"><img align="center" src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:25px"></a></div>
+<div style='float: right; text-align: right'><a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1"><img align="center" src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:30px"></a>&nbsp;&nbsp;<a href="https://github.com/carlwharris/DeepAction"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></div>
 </td>
 </table>
 
-In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review. 
-
+<table width="100%" style="border:none;">
+<tr style="width:100%;border:none;">
+<td style="border:none;" width="60%">
+In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.
+</td>
+<td style="border:none;" rowspan ="2">
+<img src="../files/workflow.png" style="max-width:100%;height:auto;">
+</td>
+</tr>
+<tr style="width:100%;border:none;background-color:rgba(0, 0, 0, 0);">
+<td style="border:none;" width="60%">
 <p align="center">
-<img src="../files/home_cage_182.gif" width="200">
-<img src="../files/CRIM13S-1785.gif" width="200">
+<img src="../files/home_cage_50.gif" width="30%">
+<img src="../files/CRIM13S-785.gif" width="30%">
+<img src="../files/CRIM13T-203.gif" width="30%">
 </p>
+<p align="center">
+<img src="../files/home_cage_182.gif" width="30%">
+<img src="../files/CRIM13S-1785.gif" width="30%">
+<img src="../files/CRIM13T-256.gif" width="30%">
+</p>
+</td>
+</tr>
+</table>
+
 
 
 <table width="100%" style="border:none;">
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>Elliptic curve cryptography</h1></div>
-<div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/elliptic-curve-cryptosystems"><img align="center" src="../files/GitHub_logo.png" style="height:25px"></a></h1></div>
+<div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/elliptic-curve-cryptosystems"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></h1></div>
 </td>
 </table>
 
