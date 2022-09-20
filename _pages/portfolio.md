@@ -17,26 +17,24 @@ redirect_from:
 </td>
 </table>
 
-<table width="100%" style="border:none;">
+<table width="100%" style="border:none;" >
 <tr style="width:100%;border:none;">
-<td style="border:none;" width="60%">
+<td style="border:none;padding:0px" width="50%">
 In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.
 </td>
-<td style="border:none;" rowspan ="2">
+<td style="border:none;padding:0px;vertical-align:top;" rowspan ="2">
 <img src="../files/workflow.png" style="max-width:100%;height:auto;">
 </td>
 </tr>
 <tr style="width:100%;border:none;background-color:rgba(0, 0, 0, 0);">
-<td style="border:none;" width="60%">
+<td style="border:none; padding:0px;vertical-align:top;padding-top:10px" width="60%">
 <p align="center">
-<img src="../files/home_cage_50.gif" width="30%">
-<img src="../files/CRIM13S-785.gif" width="30%">
-<img src="../files/CRIM13T-203.gif" width="30%">
-</p>
-<p align="center">
-<img src="../files/home_cage_182.gif" width="30%">
-<img src="../files/CRIM13S-1785.gif" width="30%">
-<img src="../files/CRIM13T-256.gif" width="30%">
+<img src="../files/home_cage_50.gif" width="32%">
+<img src="../files/CRIM13S-785.gif" width="32%">
+<img src="../files/CRIM13T-203.gif" width="32%">
+<img src="../files/home_cage_182.gif" width="32%">
+<img src="../files/CRIM13S-1785.gif" width="32%">
+<img src="../files/CRIM13T-256.gif" width="32%">
 </p>
 </td>
 </tr>
