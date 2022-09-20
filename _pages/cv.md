@@ -13,7 +13,6 @@ redirect_from:
 
 
 <div>
-
-<img src="../files/page_1.png" width="60%" style="border:1px solid #696969" >
-<img src="../files/page_2.png" width="60%" style="border:1px solid #696969" >
+<img src="../files/page_1.png" width="50%" style="border:2px solid #696969;margin-bottom:1em" >
+<img src="../files/page_2.png" width="50%" style="border:2px solid #696969" >
 </div>
