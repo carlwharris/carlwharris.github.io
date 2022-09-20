@@ -16,10 +16,12 @@ redirect_from:
 
 <table width="100%" style="border:none;" >
 <tr style="width:100%;border:none;">
-<td style="border:none;padding:0px" width="50%">
+<td style="padding:0px" width="100%">
 <img src="../files/page_1.png" width="100%">
 </td>
-<td style="border:none;padding:0px" width="50%">
+</tr>
+<tr style="width:100%;border:none;">
+<td style="\padding:0px" width="100%">
 <img src="../files/page_2.png" width="100%">
 </td>
 </tr>
