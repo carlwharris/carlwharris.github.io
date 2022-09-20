@@ -11,10 +11,7 @@ redirect_from:
 
 <font size="4"><b>PDF download: <a href="../files/cv.pdf">here</a></b></font> 
 
-
-
-
-<table width="100%" >
+<table width="70%;margin-top:1em" >
 <tr style="width:100%;">
 <td style="padding:0px" width="100%">
 <img src="../files/page_1.png" width="100%">
