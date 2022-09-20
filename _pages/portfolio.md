@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-
-<table width="100%" style="border:none;margin-bottom:0%;" >
+<div>
+<table width="100%" style="border:none;margin:0%;padding:0" >
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>DeepAction</h1></div>
 <div style='float: right; text-align: right'><a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1"><img align="center" src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:30px"></a>&nbsp;&nbsp;<a href="https://github.com/carlwharris/DeepAction"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></div>
 </td>
 </table>
+
 <hr>
-<table width="100%" style="border:none;margin-top:0%;" >
+<table width="100%" style="border:none;margin:0%;passing:0" >
 <tr style="width:100%;border:none;">
 <td style="border:none;padding:0px" width="50%">
 <p>In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.</p>
@@ -41,14 +42,13 @@ redirect_from:
 </tr>
 </table>
 
-<table width="100%" style="border:none;margin-bottom:0%;">
+<table width="100%" style="border:none;margin:0%; padding:0">
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>HPC keypoint extraction</h1></div>
 <div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/Discovery-DLC-processing"><img align="center" src="../files/GitHub_logo.png" style="height: 30px"></a></h1></div>
 </td>
 </table>
 <hr>
-
 
 
 <table width="100%" style="border:none;margin-bottom:0%;">
