@@ -66,6 +66,62 @@ redirect_from:
 
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.7em">
 
+
+abc
+<table width="100%">
+<td width="33%">
+					<img src="../files/home_cage_50.gif" style="max-width:100%;height:auto;">
+				</td>
+<td width="33%">
+					<img src="../files/CRIM13S-785.gif" style="max-width:100%;height:auto;">
+				</td>						
+<td width="33%">
+					<img src="../files/CRIM13T-203.gif" style="max-width:100%;height:auto;">
+				</td>
+<table>
+
+abc
+
+<table width="100%" style="border-collapse: collapse">
+<td width="33%">
+					<img src="../files/home_cage_50.gif" style="max-width:100%;height:auto;">
+				</td>
+<td width="33%">
+					<img src="../files/CRIM13S-785.gif" style="max-width:100%;height:auto;">
+				</td>						
+<td width="33%">
+					<img src="../files/CRIM13T-203.gif" style="max-width:100%;height:auto;">
+				</td>
+<table>
+
+abc
+<table width="100%" style="margin:0;border:none;padding:0">
+			<tr style="width:100%;border:none;margin:0;padding:0;">
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/home_cage_50.gif" style="max-width:100%;height:auto;">
+				</td>
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/CRIM13S-785.gif" style="max-width:100%;height:auto;">
+				</td>						
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/CRIM13T-203.gif" style="max-width:100%;height:auto;">
+				</td>
+			</tr>
+			<tr style="width:100%;border:none;margin:0;padding:0;">
+				<td style="border:none;padding:0.2em;" width="33%">
+					<img src="../files/home_cage_182.gif" style="max-width:100%;height:auto;">
+				</td>
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/CRIM13S-1785.gif" style="max-width:100%;height:auto;">
+				</td>						
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/CRIM13T-256.gif" style="max-width:100%;height:auto;">
+				</td>
+			</tr>
+		</table>
+		
+		
+abc
 <!--<table width="100%" style="margin:0;border:none;margin-top:-1em;padding:0">
 <tr style="width:100%;border:none;">
 <td style="border:none;padding:0px" width="50%">
@@ -114,7 +170,7 @@ redirect_from:
 	</td>
 	</tr>
 	<tr style="width:100%;border:none;margin:0;">
-		<td style="border:none;padding:0px;margin:0" width="100%" align="center">
+		<td style="border:none;padding:0px;margin:0;" width="100%" align="center">
 			<img src="../files/pipeline_diagram.png" style="max-width:70%;height:auto;">
 		</td>
 	</tr>
