@@ -13,7 +13,8 @@ redirect_from:
 <table width="100%" style="border:none;">
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>DeepAction</h1></div>
-<div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/DeepAction"><img align="center" src="../files/GitHub_logo.png"style="height:25px"></a>&nbsp;<a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1"><img align="center" src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:25px"></a></h1></div>
+<div style='float: right; text-align: right'><a href="https://github.com/carlwharris/DeepAction"><img align="center" src="../files/GitHub_logo.png" style="height:25px">
+</a>&nbsp;<a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1"><img align="center" src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:25px"></a></h1></div>
 </td>
 </table>
 
@@ -29,7 +30,7 @@ In this project, I created a MATLAB toolbox for automated classification of anim
 <table width="100%" style="border:none;">
 <td style="border:none;">
 <div style='float: left; text-align: left'><h1>Eliptic curve cryptography</h1></div>
-<div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/elliptic-curve-cryptosystems"><img align="center" src="../files/GitHub_logo.png"style="height:25px"></a></h1></div>
+<div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/elliptic-curve-cryptosystems"><img align="center" src="../files/GitHub_logo.png" style="height:25px"></a></h1></div>
 </td>
 </table>
 
