@@ -103,7 +103,7 @@ redirect_from:
 	<h1 style="font-size:2.5em;">HPC keypoint extraction</h1>
 </td>
 <td style="border:none;padding:0px;margin:0;"  align="right">
-	<a href="https://github.com/carlwharris/elliptic-curve-cryptosystems">
+	<a href="https://github.com/carlwharris/Discovery-DLC-processing">
 		<img align="center" src="../files/GitHub_logo.png" style="height:2.5em">
 	</a>
 </td>

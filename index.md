@@ -1,4 +1,4 @@
-<h1 style="font-size:2.5em;">About</h1>
+<h1 style="font-size:2em;">About</h1>
 
 Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), working on:
 
@@ -7,7 +7,7 @@ Current postbaccalaureate IRTA at the National Institutes of Mental Health, in t
 * 3D pose estimation & unsupervised classification of animal behavior in video
 * Data sharing & transparency by improving standardization of two-photon and holographic photostimulation archival data formats
 
-<h1 style="font-size:2.5em;">Education</h1>
+<h1 style="font-size:2em;">Education</h1>
 
 <div style="margin-top:-1em;">
 <img src="./files/logo.png" style="max-width:20%;float:right" >

@@ -9,18 +9,11 @@ redirect_from:
 
 <!--{% include base_path %}-->
 
-<font size="4"><b>PDF download: <a href="../files/cv.pdf">here</a></b></font> 
+<font size="4"><b>PDF download: <a href="../files/cv.pdf">here</a></b><br></font> 
 
-<table width="70%;margin-top:1em" >
-<tr style="width:100%;">
-<td style="padding:0px" width="100%">
-<img src="../files/page_1.png" width="100%">
-</td>
-</tr>
-<tr style="width:100%;">
-<td style="padding:0px" width="100%">
-<img src="../files/page_2.png" width="100%">
-</td>
-</tr>
-</table>
 
+<div>
+
+<img src="../files/page_1.png" width="60%" style="border:1px solid #696969" >
+<img src="../files/page_2.png" width="60%" style="border:1px solid #696969" >
+</div>
