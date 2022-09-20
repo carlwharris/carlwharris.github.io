@@ -109,10 +109,8 @@ redirect_from:
 </td>
 </table>
 
-
-
 <div style="margin-top:-1em;">
-<img src="../files/pipeline_diagram.png" style="width:70%;height:auto;float:right;padding-left:1em">
+<img src="../files/pipeline_diagram.png" style="width:60%;height:auto;float:right;padding-left:0.5em">
 <p style="font-size:16px">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery</a> HPC cluster. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
 </div>
 
