@@ -18,8 +18,8 @@ redirect_from:
 </td>
 </table>
 
-In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review. The toolbox is publicly available on <a href="https://github.com/carlwharris/DeepAction">GitHub</a>, and the preprint is published on <a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1">bioRxiv</a>.
-  
+In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review. 
+
 <p align="center">
 <img src="../files/home_cage_182.gif" width="200">
 <img src="../files/CRIM13S-1785.gif" width="200">
@@ -33,9 +33,4 @@ In this project, I created a MATLAB toolbox for automated classification of anim
 </td>
 </table>
 
-Final project for Abstract Algebra (Dartmouth College, Fall 2020) which provides an overview of elliptic curve cryptography (ECC) and implement a simple elliptic curve cryptosystem in MATLAB. The <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> describing the project is divided into four sections:
-
-1. **Introduction and Historical Background**: overview of public key cryptography and the advent of elliptic curve cryptography
-2. **Background on Elliptic Curves**: introduction to elliptic curves over finite fields
-3. **Elliptic Curve Subgroups**: generation of elliptic curve subgroups and the properties relevant to my ECC implementation example
-4. **Elliptic Curve Cryptosystems: theory and MATLAB Implementation**: overview of how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages, along with a MATLAB implementation of this process
+Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes details about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.
