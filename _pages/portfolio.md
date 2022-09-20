@@ -132,13 +132,13 @@ redirect_from:
 </table>
 
 <div>
-<table width="100%" style="border:none;margin:0;padding:0;margin-top:-1.5em">
+<table width="100%" style="border:none;margin:0;padding:0;margin-top:-1.25em">
 <tr style="border:none;margin:0">
-	<td style="border:none;padding:0px;margin:0" width="80%">
+	<td style="border:none;padding:0px;margin:0;" width="20%" align="left">
+	<img src="../files/ECC.jpeg" style="width:90%;">
+			</td>
+	<td style="border:none;padding:0px;margin:0;" >
 		<p style="font-size:16px; padding:0;">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
-	</td>
-	<td style="border:none;padding:0px;margin:0" align="center">
-		<img src="../files/ECC.jpeg" style="height:30%;">
 	</td>
 </tr>
 </table>
