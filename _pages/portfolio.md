@@ -22,6 +22,52 @@ redirect_from:
 
 <table width="100%" style="margin:0;border:none;margin-top:-1em;padding:0">
 <tr style="width:100%;border:none;">
+	<td style="border:none;padding:0px" width="50%">
+		<p style="font-size:16px;padding:0;margin:0">In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.</p>
+	</td>
+	<td style="border:none;padding:0px;vertical-align:top;" rowspan ="2">
+		<img src="../files/workflow.png" style="max-width:100%;height:auto;">
+	</td>
+</tr>
+<tr style="width:100%;border:none;background-color:rgba(0, 0, 0, 0);">
+	<td style="border:none; padding:0px;vertical-align:top" width="60%">
+		<table width="100%" style="margin:0;border:none;padding:0">
+			<tr style="width:100%;border:none;margin:0;padding:0;">
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/home_cage_50.gif" style="max-width:100%;height:auto;">
+				</td>
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/CRIM13S-785.gif" style="max-width:100%;height:auto;">
+				</td>						
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/CRIM13T-203.gif" style="max-width:100%;height:auto;">
+				</td>
+			</tr>
+			<tr style="width:100%;border:none;margin:0;padding:0;">
+				<td style="border:none;padding:0.2em;" width="33%">
+					<img src="../files/home_cage_182.gif" style="max-width:100%;height:auto;">
+				</td>
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/CRIM13S-1785.gif" style="max-width:100%;height:auto;">
+				</td>						
+				<td style="border:none;padding:0.2em" width="33%">
+					<img src="../files/CRIM13T-256.gif" style="max-width:100%;height:auto;">
+				</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+</table>
+
+
+<hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.7em">
+
+
+
+
+
+<!--<table width="100%" style="margin:0;border:none;margin-top:-1em;padding:0">
+<tr style="width:100%;border:none;">
 <td style="border:none;padding:0px" width="50%">
 <p style="font-size:16px;padding:0;margin:0">In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.</p>
 </td>
@@ -48,7 +94,7 @@ redirect_from:
 </td>
 </tr>
 </table>
-<hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.7em">
+<hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.7em">-->
 
 <table width="100%" style="border:none;margin:0; padding:0">
 <td style="border:none;">
