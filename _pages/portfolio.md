@@ -24,7 +24,7 @@ redirect_from:
 </td>
 </table>
 
-<table width="100%" style="margin:0;border:none;margin-top:-0.5em;padding:0">
+<table width="100%" style="margin:0;border:none;margin-top:-1em;padding:0">
 <tr style="width:100%;border:none;">
 	<td style="border:none;padding:0px" width="60%">
 		<p style="font-size:16px;padding:0;margin:0">In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.</p>
@@ -107,7 +107,7 @@ redirect_from:
 </td>
 </table>
 
-<table width="100%" style="border:none;margin:0;padding:0;margin-top:-1em">
+<table width="100%" style="border:none;margin:0;padding:0;margin-top:-1.5em">
 <tr style="width:100%;border:none;margin:0">
 	<td style="border:none;padding:0px;margin:0" width="100%">
 		<p style="font-size:16px">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery</a> HPC cluster. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
@@ -128,11 +128,11 @@ redirect_from:
 </td>
 <td style="border:none;padding:0px;margin:0"  align="right">
 	<a href="https://github.com/carlwharris/elliptic-curve-cryptosystems">
-		<img align="center" src="../files/GitHub_logo.png" style="height:2.5em">
+		<img align="center" src="../files/GitHub_logo.png" style="height:2.25em">
 	</a>
 </td>
 </table>
 
-<p style="font-size:16px; margin:0; padding:0; margin-top:-1em">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
+<p style="font-size:16px; margin:0; padding:0; margin-top:-0.75em">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
 
-<hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:1em">
+<hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.75em">
