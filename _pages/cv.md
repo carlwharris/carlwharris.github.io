@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 <!--{% include base_path %}-->
 
-# Curriculum Vitae
-
 <font size="4"><b>PDF download: <a href="../files/cv.pdf">here</a></b></font> 
+
+
 
 
 <table width="100%" >
