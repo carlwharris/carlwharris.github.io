@@ -28,7 +28,7 @@ In this project, I created a MATLAB toolbox for automated classification of anim
 
 <table width="100%" style="border:none;">
 <td style="border:none;">
-<div style='float: left; text-align: left'><h1>Eliptic curve cryptography</h1></div>
+<div style='float: left; text-align: left'><h1>Elliptic curve cryptography</h1></div>
 <div style='float: right; text-align: right'><h1><a href="https://github.com/carlwharris/elliptic-curve-cryptosystems"><img align="center" src="../files/GitHub_logo.png" style="height:25px"></a></h1></div>
 </td>
 </table>
@@ -36,6 +36,6 @@ In this project, I created a MATLAB toolbox for automated classification of anim
 Final project for Abstract Algebra (Dartmouth College, Fall 2020) which provides an overview of elliptic curve cryptography (ECC) and implement a simple elliptic curve cryptosystem in MATLAB. The <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> describing the project is divided into four sections:
 
 1. **Introduction and Historical Background**: overview of public key cryptography and the advent of elliptic curve cryptography
-2. **Background on Elliptic Curves**: itroduction to elliptic curves over finite fields
+2. **Background on Elliptic Curves**: introduction to elliptic curves over finite fields
 3. **Elliptic Curve Subgroups**: generation of elliptic curve subgroups and the properties relevant to my ECC implementation example
 4. **Elliptic Curve Cryptosystems: theory and MATLAB Implementation**: overview of how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages, along with a MATLAB implementation of this process
