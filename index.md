@@ -5,7 +5,10 @@ Current postbaccalaureate IRTA at the National Institutes of Mental Health, in t
 * 3D pose estimation & unsupervised classification of animal behavior in video
 * Data sharing & transparency by improving standardization of two-photon and holographic photostimulation archival data formats
 
-## Education
+<h1 style="font-size:2.5em;">Education</h1>
 
-I graduated *magna cum laude* from Dartmouth College in June 2021, with a double major in applied mathematics and neuroscience (high honors) and a minor in economics. I worked on research related to adaptive learning and decision making under uncertainty in [Alireza Soltani's lab](http://ccnl.dartmouth.edu/), and on projects related to animal tracking and behavior classification in [Peter Tse's octpus lab](https://sites.dartmouth.edu/peter/). I was also on the men's [Varsity Lightweight Rowing](https://dartmouthsports.com/sports/rowing) team.
+<div style="margin-top:-1em;">
+<img src="./files/logo.png" style="max-width:20%;float:right" >
+<p>I graduated <i>magna cum laude</i> from Dartmouth College in June 2021, with a double major in applied mathematics and neuroscience (high honors) and a minor in economics. I worked on research related to adaptive learning and decision making under uncertainty in <a href="http://ccnl.dartmouth.edu/">Alireza Soltani's lab</a>, and on projects related to animal tracking and behavior classification in <a href="https://sites.dartmouth.edu/peter/">Peter Tse's octpus lab</a>. I was also on the men's <a href="https://dartmouthsports.com/sports/rowing">Varsity Lightweight Rowing</a> team.</p>
+</div>
 
