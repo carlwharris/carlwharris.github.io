@@ -14,14 +14,14 @@ redirect_from:
 <font size="4"><b>PDF download: <a href="../files/cv.pdf">here</a></b></font> 
 
 
-<table width="100%" style="border:none;" >
-<tr style="width:100%;border:none;">
+<table width="100%" >
+<tr style="width:100%;">
 <td style="padding:0px" width="100%">
 <img src="../files/page_1.png" width="100%">
 </td>
 </tr>
-<tr style="width:100%;border:none;">
-<td style="\padding:0px" width="100%">
+<tr style="width:100%;">
+<td style="padding:0px" width="100%">
 <img src="../files/page_2.png" width="100%">
 </td>
 </tr>
