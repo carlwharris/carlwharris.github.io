@@ -24,13 +24,14 @@ redirect_from:
 </td>
 </table>
 
+
 <table width="100%" style="margin:0;border:none;margin-top:-1.25em;padding:0;">
 <tr style="width:100%;border:none;">
 	<td style="border:none;padding:0px" width="60%">
 		<p style="font-size:16px;padding:0;margin:0">In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.</p>
 	</td>
 	<td style="border:none;padding:0px;vertical-align:top;" rowspan ="2">
-		<img src="../files/workflow.png" style="max-width:100%;height:auto;">
+		<img src="../files/workflow.png" style="max-width:100%;height:auto;margin-left:1em">
 	</td>
 </tr>
 <tr style="width:100%;border:none;background-color:rgba(0, 0, 0, 0);">
@@ -100,8 +101,8 @@ redirect_from:
 <td style="border:none;padding:0px;margin:0" width="70%" align="left">
 	<h1 style="font-size:2.5em;">HPC keypoint extraction</h1>
 </td>
-<td style="border:none;padding:0px;margin:0"  align="right">
-	<a href="https://github.com/carlwharris/Discovery-DLC-processing">
+<td style="border:none;padding:0px;margin:0;"  align="right">
+	<a href="https://github.com/carlwharris/elliptic-curve-cryptosystems">
 		<img align="center" src="../files/GitHub_logo.png" style="height:2.5em">
 	</a>
 </td>
@@ -126,24 +127,24 @@ redirect_from:
 <td style="border:none;padding:0px;margin:0" width="70%" align="left">
 	<h1 style="font-size:2.5em;">Elliptic curve cryptography</h1>
 </td>
-<td style="border:none;padding:0px;margin:0;vertical-align:top"  align="right">
+<td style="border:none;padding:0px;margin:0;"  align="right">
 	<a href="https://github.com/carlwharris/elliptic-curve-cryptosystems">
 		<img align="center" src="../files/GitHub_logo.png" style="height:2.5em">
 	</a>
 </td>
 </table>
 
-
-
+<div>
 <table width="100%" style="border:none;margin:0;padding:0;margin-top:-1.5em">
 <tr style="border:none;margin:0">
 	<td style="border:none;padding:0px;margin:0" width="80%">
 		<p style="font-size:16px; padding:0;">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
 	</td>
 	<td style="border:none;padding:0px;margin:0" align="center">
-		<img src="../files/ECC.jpeg" style="width:80%;">
+		<img src="../files/ECC.jpeg" style="height:30%;">
 	</td>
 </tr>
 </table>
+</div>
 
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-top:0.75em">
