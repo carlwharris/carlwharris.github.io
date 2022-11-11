@@ -21,8 +21,8 @@ redirect_from:
 </td>
 </table>
 
-<img src="../files/nwb_overview.png" height="225em" style="margin: 0em 0em 0em 0em; " align="right">
-State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, used in concert with <a href="https://www.nature.com/articles/nmeth818">two-photon imaging</a>, 
+<img src="../files/nwb_overview.png" height="200em" style="margin: 0em 0em 0em 0em; " align="right">
+<p style="font-size:16px;padding:0;margin:0">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, used in concert with <a href="https://www.nature.com/articles/nmeth818">two-photon imaging</a>, 
 allow unprecedented 
 control and measurement of cell activity in the living brain. Methods for managing data for two-photon imaging 
 experiments are improving, but there is little to no standardization of data for holographic stimulation methods. 
@@ -30,19 +30,7 @@ Stimulation in vivo depends on fine-tuning many experimental variables, which po
 and data sharing between researchers. To improve <a href="https://www.sciencedirect.com/science/article/pii/S0896627321009557">standardization</a> of photostimulation data storage and processing, 
 we release this extension as a generic data format for simultaneous holographic stimulation experiments, 
 using the NWB format to store experimental details and data relating to both acquisition 
-and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stable/">containers</a> for storing photostimulation-specific device parameters, holographic patterns (either 2D or 3D), and time series data related to photostimulation. This project is part of an ongoing intra-NIMH collaboration between <a href="https://markhisted.org/">Mark Histed's lab</a> and the <a href="https://cmn.nimh.nih.gov/dsst">Data Science and Sharing Team</a>.
-
-
-I introduced five new <a href="https://pynwb.readthedocs.io/en/stable/">PyNWB</a> containers as part of this extension:
-
-<div style="display:inline">
-<img src="../files/Cap1.PNG" width="200em" align="right" style=" margin:0.5em 0.5em 0.5em 0.5em;">
-</div>
-
-* Two containers are used to store **device-specific metadata**: `SpatialLightModulator` and `PhotostimulationDevice`.
-* `HolographicPattern` stores the **holographic pattern** used in stimulation.
-* `PhotostimulationSeries` contains the **time series data** corresponding to the presentation of a given stimulus (where the stimulus is represented by a `HolographicPattern` container linked to the `PhotostimulationSeries`).
-* **All time series & patterns for a given experiment** is grouped together using the `PhotostimulationTable` container. This object is a dynamic table, where each row in the table corresponds to a single `PhotostimulationSeries`. Additionally, the table links to the `StimulationDevice` used in the experiment.
+and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stable/">containers</a> for storing photostimulation-specific device parameters, holographic patterns (either 2D or 3D), and time series data related to photostimulation. This project is part of an ongoing intra-NIMH collaboration between <a href="https://markhisted.org/">Mark Histed's lab</a> and the <a href="https://cmn.nimh.nih.gov/dsst">Data Science and Sharing Team</a>.</p>
 
 
 
