@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<table width="100%" style="border:none;margin:0;padding:0">
+<table width="100%" style="border:none;margin:0;padding:0; margin-bottom:-2em">
 <td style="border:none;padding:0px;margin:0" width="70%" align="left">
 	<h1 style="font-size:2em;">Holographic photostimulation extension</h1>
 </td>
