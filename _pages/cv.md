@@ -11,7 +11,4 @@ redirect_from:
 
 <font size="4"><b>PDF download: <a href="../files/cv.pdf">here</a></b></font> 
 
-<div style="margin-top:1em">
-<img src="../files/page_1.png" width="100%" style="border:2px solid #696969;margin-bottom:1em" >
-<img src="../files/page_2.png" width="100%" style="border:2px solid #696969" >
-</div>
+<embed src="../files/cv.pdf" width="800px" height="2100px"/>
