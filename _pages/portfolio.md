@@ -29,7 +29,7 @@ experiments are improving, but there is little to no standardization of data for
 Stimulation in vivo depends on fine-tuning many experimental variables, which poses a challenge for reproducibility 
 and data sharing between researchers. To improve <a href="https://www.sciencedirect.com/science/article/pii/S0896627321009557">standardization</a> of photostimulation data storage and processing, 
 we release this extension as a generic data format for simultaneous holographic stimulation experiments, 
-using the NWB format to store experimental details and data relating to both acquisition 
+using the <a href="https://www.nwb.org/">NeuroData Without Borders (NWB)</a> format for neurophysiology data to store experimental details and data relating to both acquisition 
 and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stable/">containers</a> for storing photostimulation-specific device parameters, holographic patterns (either 2D or 3D), and time series data related to photostimulation. This project is part of an ongoing intra-NIMH collaboration between <a href="https://markhisted.org/">Mark Histed's lab</a> and the <a href="https://cmn.nimh.nih.gov/dsst">Data Science and Sharing Team</a>.</p>
 
 
