@@ -21,7 +21,7 @@ redirect_from:
 </td>
 </table>
 
-<img src="../files/nwb_overview.png" height="200em" style="margin: 0em 0em 0em 0em; " align="right">
+<img src="../files/nwb_overview.png" width="45%" style="margin: 0em 0em 0em 0em; " align="right">
 <p style="font-size:16px;padding:0;margin:0">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, used in concert with <a href="https://www.nature.com/articles/nmeth818">two-photon imaging</a>, 
 allow unprecedented 
 control and measurement of cell activity in the living brain. Methods for managing data for two-photon imaging 
