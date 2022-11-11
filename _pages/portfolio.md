@@ -22,7 +22,7 @@ redirect_from:
 </table>
 
 <img src="../files/nwb_overview.png" width="45%" style="margin: 0em 0em 0em 0em; " align="right">
-<p style="font-size:16px;padding:0;margin:0">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, used in concert with <a href="https://www.nature.com/articles/nmeth818">two-photon imaging</a>, 
+<p style="font-size:16px;padding:0;margin:0;margin-bottom:1em">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, used in concert with <a href="https://www.nature.com/articles/nmeth818">two-photon imaging</a>, 
 allow unprecedented 
 control and measurement of cell activity in the living brain. Methods for managing data for two-photon imaging 
 experiments are improving, but there is little to no standardization of data for holographic stimulation methods. 
@@ -52,7 +52,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 
 <table width="100%" style="margin:0;border:none;margin-top:-1.25em;padding:0;">
 <tr style="width:100%;border:none;">
-	<td style="border:none;padding:0px" width="60%">
+	<td style="border:none;padding:0px" width="65%">
 		<p style="font-size:16px;padding:0;margin:0">In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.</p>
 	</td>
 	<td style="border:none;padding:0px;vertical-align:top;" rowspan ="2">
