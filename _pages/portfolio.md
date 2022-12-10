@@ -38,7 +38,7 @@ redirect_from:
 	<h2 style="font-size:2em;">Holographic photostimulation extension</h2>
 </td>
 <td style="border:none;padding:0px;margin:0;"  align="right">
-	<a href="https://github.com/carlwharris/nwb-photostims">
+	<a href="https://github.com/carlwharris/nwb-photostim">
 		<img align="center" src="../files/GitHub_logo.png" style="height:2.5em">
 	</a>
 </td>
