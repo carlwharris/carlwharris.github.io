@@ -10,9 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
+<hr style="margin:0;padding:0; height:4px;background-color: #696969;">
+
 <table width="100%" style="border:none;margin:0;padding:0; margin-bottom:-2em">
 <td style="border:none;padding:0px;margin:0" width="70%" align="left">
-	<h1 style="font-size:2em;">Holographic photostimulation extension</h1>
+	<h2 style="font-size:2em;">Holographic photostimulation extension</h2>
 </td>
 <td style="border:none;padding:0px;margin:0;"  align="right">
 	<a href="https://github.com/carlwharris/nwb-photostims">
@@ -33,12 +35,30 @@ using the <a href="https://www.nwb.org/">NeuroData Without Borders (NWB)</a> for
 and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stable/">containers</a> for storing photostimulation-specific device parameters, holographic patterns (either 2D or 3D), and time series data related to photostimulation. This project is part of an ongoing intra-NIMH collaboration between <a href="https://markhisted.org/">Mark Histed's lab</a> and the <a href="https://cmn.nimh.nih.gov/dsst">Data Science and Sharing Team</a>.</p>
 
 
+<hr style="margin:0;padding:0; height:4px;background-color: #696969;">
+
+<table width="100%" style="border:none;margin:0;padding:0">
+<td style="border:none;padding:0px;margin:0;" width="70%" align="left">
+	<h2 style="font-size:2.5em;">Context-dependent encoding</h2>
+</td>
+<td style="border:none;padding:0px;margin:0;"  align="right">
+	<a href="https://arxiv.org/abs/2211.09295">
+		<img align="center" src="../files/arxiv-logo-1.png" style="height:2.5em;margin-top:-1em"></a>
+	&nbsp;&nbsp;
+	</a>
+</td>
+</table>
+
+
+<img src="../files/boxplots_v2.png" width="35%" style="margin: 0em 0em 0em 0em; " align="right">
+<p style="font-size:16px;padding:0;margin:0;margin-bottom:1em">We propose a decoding-based approach to detect context effects on neural codes in longitudinal neural recording data. The approach is agnostic to how information is encoded in neural activity, and can control for a variety of possible confounding factors present in the data. We demonstrate our approach by determining whether it is possible to decode location encoding from prefrontal cortex in the mouse and, further, testing whether the encoding changes due to task engagement.</p>
+
 
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;">
 
 <table width="100%" style="border:none;margin:0;padding:0">
 <td style="border:none;padding:0px;margin:0;" width="70%" align="left">
-	<h1 style="font-size:2.5em;">DeepAction Toolbox</h1>
+	<h2 style="font-size:2.5em;">DeepAction Toolbox</h2>
 </td>
 <td style="border:none;padding:0px;margin:0;"  align="right">
 	<a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1">
@@ -94,7 +114,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 
 <table width="100%" style="border:none;margin:0;padding:0">
 <td style="border:none;padding:0px;margin:0" width="70%" align="left">
-	<h1 style="font-size:2.5em;">HPC keypoint extraction</h1>
+	<h2 style="font-size:2.5em;">HPC keypoint extraction</h2>
 </td>
 <td style="border:none;padding:0px;margin:0;"  align="right">
 	<a href="https://github.com/carlwharris/Discovery-DLC-processing">
@@ -114,7 +134,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 
 <table width="100%" style="border:none;margin:0;padding:0">
 <td style="border:none;padding:0px;margin:0" width="70%" align="left">
-	<h1 style="font-size:2.5em;">Elliptic curve cryptography</h1>
+	<h2 style="font-size:2.5em;">Elliptic curve cryptography</h2>
 </td>
 <td style="border:none;padding:0px;margin:0;"  align="right">
 	<a href="https://github.com/carlwharris/elliptic-curve-cryptosystems">
