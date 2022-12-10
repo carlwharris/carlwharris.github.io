@@ -23,14 +23,14 @@ redirect_from:
         </a>
     </div>
     <div>
-        <h2 style="font-size:2em;">Predicting pandemic mental health outcomes</h2>
+        <h2 style="font-size:1.5em;">Predicting pandemic mental health outcomes</h2>
     </div>
 </div>
 
 <img src="../files/covid19_fig.png" width="55%" style="margin: 0em 0em 0em 0em; " align="right">
 <p style="font-size:16px;padding:0;margin:0;margin-bottom:1em">The “Mental Health Impact of COVID-19 Pandemic on NIMH Patients and Volunteers” study was a longitudinal study launched in spring 2020 by researchers at NIMH, to investigate the effect of the emerging COVID-19 pandemic on mental health. For each participant, the study collected personal characteristics, such as demographics, psychological traits, and clinical history, together with personal circumstances at regular intervals during their enrollment in the study. In this paper, we examine the degree to which a variety of mental health outcomes over time for an individual can be predicted from personal characteristics and their changing circumstances, using regression models trained on other study participants. We find that it is possible to predict the variation of a participant's mental health outcomes from time point to time point, for most of the outcomes we consider. This capability is dominated by information about outcome at the point of enrollment in the study, but can be improved by considering personal characteristics and circumstances.</p>
 
-<hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-bottom:-2em;margin-top:-2em">
+<hr style="height:4px; background-color: #696969; margin-bottom:-3em; margin-top:-1em">
 
 <div style="clear: both;">
     <div style="float: right;vertical-align: middle;">
@@ -39,7 +39,7 @@ redirect_from:
         </a>
   </div>
   <div>
-    <h2 style="font-size:2em;">Holographic photostimulation extension</h2>
+    <h2 style="font-size:1.5em;">Holographic photostimulation extension</h2>
 </div>
 
 <img src="../files/nwb_overview.png" width="45%" style="float:right">
@@ -63,7 +63,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
         </a>
     </div>
     <div>
-        <h2 style="font-size:2.5em;">Context-dependent encoding</h2>
+        <h2 style="font-size:1.5em;">Context-dependent encoding</h2>
     </div>
 </div>
 
@@ -83,7 +83,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
         </a>
     </div>
     <div>
-        <h2 style="font-size:2.5em;">DeepAction Toolbox</h2>
+        <h2 style="font-size:1.5em;">DeepAction Toolbox</h2>
     </div>
 </div>
 
@@ -115,7 +115,15 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </table>
   </div>
   <div>
-    <p style="font-size:16px">In this project, I created a MATLAB toolbox for automated classification of animal in behavior. It uses features extracted from raw video frames to train a bidirectional LSTM classifier, which in addition to predicting behavior generates a confidence score for the predicted label. These confidence scores allow for the selective review and correction of ambiguous annotations while omitting unnecessary review.</p>
+    <p style="font-size:16px">The identification of animal behavior in video is a critical but time-consuming task in 
+    many areas of research. Here, we introduce DeepAction, a deep learning-based toolbox for automatically annotating 
+    animal behavior in video. Our approach uses features extracted from raw video frames by a pretrained convolutional 
+    neural network to train a recurrent neural network classifier. We evaluate the classifier on two benchmark rodent 
+    datasets and one octopus dataset. We show that it achieves high accuracy, requires little training data, and 
+    surpasses both human agreement and most comparable existing methods. We also create a confidence score for 
+    classifier output, and show that our method provides an accurate estimate of classifier performance and reduces the 
+    time required by human annotators to review and correct automatically-produced annotations. We release our system 
+    and accompanying annotation interface as an open-source MATLAB toolbox.</p>
   </div>
 </div>
 
@@ -128,14 +136,12 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 </a>
   </div>
   <div>
-<h2 style="font-size:2.5em;">HPC keypoint extraction</h2>
+<h2 style="font-size:1.5em;">HPC keypoint extraction</h2>
   </div>
 </div>
 
 <img src="../files/pipeline_diagram.png" align="right" style="width:60%;">
-<p style="font-size:16px;">We propose a decoding-based approach to detect context effects on neural codes in longitudinal neural recording data. The approach is agnostic to how information is encoded in neural activity, and can control for a variety of possible confounding factors present in the data. We demonstrate our approach by determining whether it is possible to decode location encoding from prefrontal cortex in the mouse and, further, testing whether the encoding changes due to task engagement.</p>
-
-
+<p style="font-size:16px">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery HPC cluster</a>. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
 
 <hr style="margin:0;padding:0; height:4px;background-color: #696969;margin-bottom:-2em;margin-top:-2em">
 
@@ -146,7 +152,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
         </a>
     </div>
     <div>
-        <h2 style="font-size:2.5em;">Elliptic curve cryptography</h2>
+        <h2 style="font-size:1.5em;">Elliptic curve cryptography</h2>
     </div>
 </div>
 
