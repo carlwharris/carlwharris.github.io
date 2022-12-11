@@ -61,7 +61,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
         </a>
     </div>
     <div>
-        <h2 style="font-size:1.5em;">Context-dependent encoding</h2>
+        <h2 style="font-size:1.5em;">Context-dependent changes in neural encoding</h2>
     </div>
 </div>
 
