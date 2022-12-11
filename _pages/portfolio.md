@@ -103,7 +103,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 			<img src="../files/CRIM13T-203.gif" style="max-width:100%;height:auto;">
 		</td>
 	</tr>
-	<tr style="border:none">
+	<tr style="border:none;">
 		<td style="border:none;padding:0.2em;" width="33%">
 			<img src="../files/home_cage_182.gif" style="max-width:100%;height:auto;">
 		</td>
@@ -116,8 +116,8 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 	</tr>
     </table>
   </div>
-  <div>
-    <p style="font-size:14px;">The identification of animal behavior in video is a critical but time-consuming task in 
+  <div >
+    <p style="font-size:14px;margin-top: -0.5em">The identification of animal behavior in video is a critical but time-consuming task in 
     many areas of research. Here, we introduce DeepAction, a deep learning-based toolbox for automatically annotating 
     animal behavior in video. Our approach uses features extracted from raw video frames by a pretrained convolutional 
     neural network to train a recurrent neural network classifier. We evaluate the classifier on two benchmark rodent 
