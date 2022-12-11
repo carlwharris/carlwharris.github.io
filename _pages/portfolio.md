@@ -11,8 +11,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; ">
 
 
