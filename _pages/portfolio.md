@@ -25,7 +25,7 @@ redirect_from:
     </div>
 </div>
 
-<img src="../files/covid19_fig.png" width="35%" style="float:left;padding-right:0.5em">
+<img src="../files/covid19_fig.png" width="32%" style="float:left;padding-right:0.5em">
 <p style="font-size:1em;">The “Mental Health Impact of COVID-19 Pandemic on NIMH Patients and Volunteers” study was a longitudinal study launched in spring 2020 by researchers at NIMH, to investigate the effect of the emerging COVID-19 pandemic on mental health. For each participant, the study collected personal characteristics, such as demographics, psychological traits, and clinical history, together with personal circumstances at regular intervals during their enrollment in the study. In this paper, we examine the degree to which a variety of mental health outcomes over time for an individual can be predicted from personal characteristics and their changing circumstances, using regression models trained on other study participants. We find that it is possible to predict the variation of a participant's mental health outcomes from time point to time point, for most of the outcomes we consider. This capability is dominated by information about outcome at the point of enrollment in the study, but can be improved by considering personal characteristics and circumstances.</p>
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
