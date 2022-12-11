@@ -27,7 +27,7 @@ redirect_from:
     </div>
 </div>
 
-<img src="../files/covid19_fig.png" width="55%" style="float:left;padding-right:0.5em">
+<img src="../files/covid19_fig.png" width="30%" style="float:left;padding-right:0.5em">
 <p style="font-size:1em;">The “Mental Health Impact of COVID-19 Pandemic on NIMH Patients and Volunteers” study was a longitudinal study launched in spring 2020 by researchers at NIMH, to investigate the effect of the emerging COVID-19 pandemic on mental health. For each participant, the study collected personal characteristics, such as demographics, psychological traits, and clinical history, together with personal circumstances at regular intervals during their enrollment in the study. In this paper, we examine the degree to which a variety of mental health outcomes over time for an individual can be predicted from personal characteristics and their changing circumstances, using regression models trained on other study participants. We find that it is possible to predict the variation of a participant's mental health outcomes from time point to time point, for most of the outcomes we consider. This capability is dominated by information about outcome at the point of enrollment in the study, but can be improved by considering personal characteristics and circumstances.</p>
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
@@ -160,4 +160,6 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 <img src="../files/ECC.jpeg"  style="width:25%;float:right;padding-left:0.5em">
 <p style="font-size:1em;">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
 
+<div>
 <hr style="height:4px; background-color: #696969; margin-top:-1em">
+</div>
