@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-<hr style="height:4px; background-color: #696969; margin-top:-1em">
+<hr style="height:4px; background-color: #696969; margin-bottom:-1.5em">
 
 
 ## Prediction of mental well-being from individual characteristics and circumstances during the COVID-19 pandemic ([preprint](https://psyarxiv.com/7enqw/))
