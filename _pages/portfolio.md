@@ -44,7 +44,7 @@ redirect_from:
 </div>
 
 <img src="../files/nwb_overview.png" width="50%" style="float:left;padding-right:0.5em">
-<p style="font-size:14px;">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, 
+<p style="font-size:1em;">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, 
 used in concert with <a href="https://www.nature.com/articles/nmeth818">two-photon imaging</a>, allow unprecedented 
 control and measurement of cell activity in the living brain. Methods for managing data for two-photon imaging 
 experiments are improving, but there is little to no standardization of data for holographic stimulation methods. 
@@ -67,7 +67,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </div>
 </div>
 
-<img src="../files/boxplots_v2.png" style="float:right;padding-right:0.5em">
+<img src="../files/boxplots_v2.png" style="float:right;padding-right:0.5em" width="40%">
 <p style="font-size:1em;">We propose a decoding-based approach to detect context effects on neural codes in longitudinal neural recording data. The approach is agnostic to how information is encoded in neural activity, and can control for a variety of possible confounding factors present in the data. We demonstrate our approach by determining whether it is possible to decode location encoding from prefrontal cortex in the mouse and, further, testing whether the encoding changes due to task engagement.</p>
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
