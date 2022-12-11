@@ -157,7 +157,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </div>
 </div>
 
-<img src="../files/ECC.jpeg"  style="width:25%;float:right;padding-left:0.5em">
+<img src="../files/ECC.jpeg"  style="width:15%;float:right;padding-left:0.5em">
 <p style="font-size:1em;">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
 
 
