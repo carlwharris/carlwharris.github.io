@@ -27,23 +27,23 @@ redirect_from:
     </div>
 </div>
 
-<img src="../files/covid19_fig.png" width="55%" style="margin: 0em 0em 0em 0em; " align="right">
-<p style="font-size:16px;padding:0;margin:0;margin-bottom:1em">The “Mental Health Impact of COVID-19 Pandemic on NIMH Patients and Volunteers” study was a longitudinal study launched in spring 2020 by researchers at NIMH, to investigate the effect of the emerging COVID-19 pandemic on mental health. For each participant, the study collected personal characteristics, such as demographics, psychological traits, and clinical history, together with personal circumstances at regular intervals during their enrollment in the study. In this paper, we examine the degree to which a variety of mental health outcomes over time for an individual can be predicted from personal characteristics and their changing circumstances, using regression models trained on other study participants. We find that it is possible to predict the variation of a participant's mental health outcomes from time point to time point, for most of the outcomes we consider. This capability is dominated by information about outcome at the point of enrollment in the study, but can be improved by considering personal characteristics and circumstances.</p>
+<img src="../files/covid19_fig.png" width="55%" style="margin: 0em 0em 0em 0em; padding-left:0.5em" align="right">
+<p style="font-size:14px;">The “Mental Health Impact of COVID-19 Pandemic on NIMH Patients and Volunteers” study was a longitudinal study launched in spring 2020 by researchers at NIMH, to investigate the effect of the emerging COVID-19 pandemic on mental health. For each participant, the study collected personal characteristics, such as demographics, psychological traits, and clinical history, together with personal circumstances at regular intervals during their enrollment in the study. In this paper, we examine the degree to which a variety of mental health outcomes over time for an individual can be predicted from personal characteristics and their changing circumstances, using regression models trained on other study participants. We find that it is possible to predict the variation of a participant's mental health outcomes from time point to time point, for most of the outcomes we consider. This capability is dominated by information about outcome at the point of enrollment in the study, but can be improved by considering personal characteristics and circumstances.</p>
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
 <div style="clear: both;">
     <div style="float: right;vertical-align: middle;">
         <a href="https://github.com/carlwharris/nwb-photostim">
-            <img align="right" src="../files/GitHub_logo.png" style="height:2em">
+            <img src="../files/GitHub_logo.png" style="height:2em">
         </a>
   </div>
   <div>
     <h2 style="font-size:1.5em;">Holographic photostimulation extension</h2>
 </div>
 
-<img src="../files/nwb_overview.png" width="45%" style="float:right">
-<p style="font-size:16px;">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, 
+<img src="../files/nwb_overview.png" width="50%" style="float:left;padding-right:0.5em">
+<p style="font-size:14px;">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, 
 used in concert with <a href="https://www.nature.com/articles/nmeth818">two-photon imaging</a>, allow unprecedented 
 control and measurement of cell activity in the living brain. Methods for managing data for two-photon imaging 
 experiments are improving, but there is little to no standardization of data for holographic stimulation methods. 
@@ -55,11 +55,10 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
-
 <div style="clear: both;">
     <div style="float: right;vertical-align: middle;">
         <a href="https://arxiv.org/abs/2211.09295">
-            <img align="right" src="../files/arxiv-logo-1.png" style="height:2em;float:right">
+            <img  src="../files/arxiv-logo-1.png" style="height:2em">
         </a>
     </div>
     <div>
@@ -67,10 +66,12 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </div>
 </div>
 
-<img src="../files/boxplots_v2.png" width="35%" style="margin: 0em 0em 0em 0em; " align="right">
-<p style="font-size:16px;padding:0;margin:0;margin-bottom:1em">We propose a decoding-based approach to detect context effects on neural codes in longitudinal neural recording data. The approach is agnostic to how information is encoded in neural activity, and can control for a variety of possible confounding factors present in the data. We demonstrate our approach by determining whether it is possible to decode location encoding from prefrontal cortex in the mouse and, further, testing whether the encoding changes due to task engagement.</p>
+<img src="../files/boxplots_v2.png" width="35%" style="margin: 0em 0em 0em 0em; float:left;padding-right:0.5em">
+<p style="font-size:14px;">We propose a decoding-based approach to detect context effects on neural codes in longitudinal neural recording data. The approach is agnostic to how information is encoded in neural activity, and can control for a variety of possible confounding factors present in the data. We demonstrate our approach by determining whether it is possible to decode location encoding from prefrontal cortex in the mouse and, further, testing whether the encoding changes due to task engagement.</p>
+
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
+
 
 <div style="clear: both;">
     <div style="float: right;vertical-align: middle;">
@@ -87,10 +88,10 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </div>
 </div>
 
-<div style="clear: both;">
-  <div style="float: right; vertical-align: middle;width:50%">
-   <table width="50%" align="right">
-    <tr style="width:100%;border:none;margin:0;padding:0;">
+<div style="clear: both;padding-top: 0.25em">
+  <div style="float: right; width:50%;padding-left:0.5em">
+   <table style="border:none;">
+    <tr style="border:none">
         <td style="border:none;padding:0.2em" width="33%">
 			<img src="../files/home_cage_50.gif" style="max-width:100%;height:auto;">
 		</td>
@@ -101,7 +102,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 			<img src="../files/CRIM13T-203.gif" style="max-width:100%;height:auto;">
 		</td>
 	</tr>
-	<tr style="width:100%;border:none;margin:0;padding:0;">
+	<tr style="border:none">
 		<td style="border:none;padding:0.2em;" width="33%">
 			<img src="../files/home_cage_182.gif" style="max-width:100%;height:auto;">
 		</td>
@@ -115,7 +116,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </table>
   </div>
   <div>
-    <p style="font-size:16px">The identification of animal behavior in video is a critical but time-consuming task in 
+    <p style="font-size:14px;">The identification of animal behavior in video is a critical but time-consuming task in 
     many areas of research. Here, we introduce DeepAction, a deep learning-based toolbox for automatically annotating 
     animal behavior in video. Our approach uses features extracted from raw video frames by a pretrained convolutional 
     neural network to train a recurrent neural network classifier. We evaluate the classifier on two benchmark rodent 
@@ -132,16 +133,16 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 <div style="clear: both;">
   <div style="float: right;vertical-align: middle;">
    <a href="https://github.com/carlwharris/Discovery-DLC-processing">
-	<img align="right" src="../files/GitHub_logo.png" style="height:2em">
+	<img  src="../files/GitHub_logo.png" style="height:2em">
 </a>
   </div>
   <div>
-<h2 style="font-size:1.5em;">HPC keypoint extraction</h2>
+    <h2 style="font-size:1.5em;">HPC keypoint extraction</h2>
   </div>
 </div>
 
-<img src="../files/pipeline_diagram.png" align="right" style="width:60%;">
-<p style="font-size:16px">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery HPC cluster</a>. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
+<img src="../files/pipeline_diagram.png" style="width:60%;float:right;padding-left:0.5em">
+<p style="font-size:14px;">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery HPC cluster</a>. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
@@ -156,7 +157,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </div>
 </div>
 
-<img src="../files/ECC.jpeg"  style="width:20%;float:left">
-<p style="font-size:16px;">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
+<img src="../files/ECC.jpeg"  style="width:25%;float:left;padding-right=0.5em">
+<p style="font-size:14px;">Final project for Abstract Algebra (Dartmouth College, Fall 2020) in which I implemented a simple elliptic curve cryptosystem in MATLAB. The corresponding <a href="https://github.com/carlwharris/elliptic-curve-cryptosystems/blob/main/ECC%20Project%20Paper.pdf">paper</a> includes information about: the invention of public key and elliptic curve cryptography, elliptic curves over finite fields, subgroup generation, and how cryptographic systems are constructed from elliptic curves and used to encrypt and decrypt messages.</p>
 
 <hr style="height:4px; background-color: #696969; margin-top:-1em">
