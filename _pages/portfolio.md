@@ -67,14 +67,9 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </div>
 </div>
 
-<table style="border:none;">
-<td style="border:none; width:55%">
 <img src="../files/boxplots_v2.png" style="float:right;padding-right:0.5em">
-</td>
-<td style="border:none;">
 <p style="font-size:1em;">We propose a decoding-based approach to detect context effects on neural codes in longitudinal neural recording data. The approach is agnostic to how information is encoded in neural activity, and can control for a variety of possible confounding factors present in the data. We demonstrate our approach by determining whether it is possible to decode location encoding from prefrontal cortex in the mouse and, further, testing whether the encoding changes due to task engagement.</p>
-</td>
-</table>
+
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
