@@ -19,7 +19,7 @@ redirect_from:
 <div style="clear: both;">
     <div style="float: right;vertical-align: middle;">
         <a href="https://psyarxiv.com/7enqw/">
-	        <img src="../files/PsyArXiv_logo.png" style="height:2em;float:right" alt="">
+            <img src="../files/PsyArXiv_logo.png" style="height:2em;float:right" alt="">
         </a>
     </div>
     <div>
@@ -29,7 +29,6 @@ redirect_from:
 
 <img src="../files/covid19_fig.png" width="55%" style="float:left;padding-right:0.5em">
 <p style="font-size:1em;">The “Mental Health Impact of COVID-19 Pandemic on NIMH Patients and Volunteers” study was a longitudinal study launched in spring 2020 by researchers at NIMH, to investigate the effect of the emerging COVID-19 pandemic on mental health. For each participant, the study collected personal characteristics, such as demographics, psychological traits, and clinical history, together with personal circumstances at regular intervals during their enrollment in the study. In this paper, we examine the degree to which a variety of mental health outcomes over time for an individual can be predicted from personal characteristics and their changing circumstances, using regression models trained on other study participants. We find that it is possible to predict the variation of a participant's mental health outcomes from time point to time point, for most of the outcomes we consider. This capability is dominated by information about outcome at the point of enrollment in the study, but can be improved by considering personal characteristics and circumstances.</p>
-
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
@@ -41,6 +40,7 @@ redirect_from:
   </div>
   <div>
     <h2 style="font-size:1.5em;">Holographic photostimulation extension</h2>
+</div>
 </div>
 
 <img src="../files/nwb_overview.png" width="50%" style="float:left;padding-right:0.5em">
@@ -70,14 +70,12 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 <img src="../files/boxplots_v2.png" style="float:right;padding-right:0.5em">
 <p style="font-size:1em;">We propose a decoding-based approach to detect context effects on neural codes in longitudinal neural recording data. The approach is agnostic to how information is encoded in neural activity, and can control for a variety of possible confounding factors present in the data. We demonstrate our approach by determining whether it is possible to decode location encoding from prefrontal cortex in the mouse and, further, testing whether the encoding changes due to task engagement.</p>
 
-
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
-
 
 <div style="clear: both;">
     <div style="float: right;vertical-align: middle;">
         <a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1">
-            <img src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:2.5em;">
+            <img src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:2em;">
         </a>
         &nbsp;&nbsp;
         <a href="https://github.com/carlwharris/DeepAction" >
@@ -144,6 +142,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 
 <img src="../files/pipeline_diagram.png" style="width:60%;float:right;padding-left:0.5em">
 <p style="font-size:1em;">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery HPC cluster</a>. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
+
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
 
