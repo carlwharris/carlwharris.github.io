@@ -25,7 +25,7 @@ redirect_from:
     </div>
 </div>
 
-<img src="../files/covid19_fig.png" width="45%" style="float:left;padding-right:0.5em">
+<img src="../files/covid19_fig.png" width="40%" style="float:left;padding-right:0.5em">
 <p style="font-size:1em;">The “Mental Health Impact of COVID-19 Pandemic on NIMH Patients and Volunteers” study was a longitudinal study launched in spring 2020 by researchers at NIMH, to investigate the effect of the emerging COVID-19 pandemic on mental health. For each participant, the study collected personal characteristics, such as demographics, psychological traits, and clinical history, together with personal circumstances at regular intervals during their enrollment in the study. In this paper, we examine the degree to which a variety of mental health outcomes over time for an individual can be predicted from personal characteristics and their changing circumstances, using regression models trained on other study participants. We find that it is possible to predict the variation of a participant's mental health outcomes from time point to time point, for most of the outcomes we consider. This capability is dominated by information about outcome at the point of enrollment in the study, but can be improved by considering personal characteristics and circumstances.</p>
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
@@ -54,7 +54,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
-<div style="clear: both;">
+<div style="clear: both;margin-bottom:-0.5em">
     <div style="float: right;vertical-align: middle;">
         <a href="https://arxiv.org/abs/2211.09295">
             <img  src="../files/arxiv-logo-1.png" style="height:2em">
@@ -65,7 +65,7 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     </div>
 </div>
 
-<img src="../files/boxplots_v2.png" style="float:right;padding-right:0.5em" width="40%">
+<img src="../files/boxplots_v2.png" style="float:right;padding-right:0.5em;" width="40%">
 <p style="font-size:1em;">We propose a decoding-based approach to detect context effects on neural codes in longitudinal neural recording data. The approach is agnostic to how information is encoded in neural activity, and can control for a variety of possible confounding factors present in the data. We demonstrate our approach by determining whether it is possible to decode location encoding from prefrontal cortex in the mouse and, further, testing whether the encoding changes due to task engagement.</p>
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
