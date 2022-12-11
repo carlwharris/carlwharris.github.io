@@ -45,7 +45,7 @@ redirect_from:
 </div>
 
 <img src="../files/nwb_overview.png" width="50%" style="float:left;padding-right:0.5em">
-<p style="font-size:14px;">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, 
+<p style="font-size:1em;">State-of-the-art <a href="https://www.nature.com/articles/s41467-017-01031-3">holographic photostimulation methods</a>, 
 used in concert with <a href="https://www.nature.com/articles/nmeth818">two-photon imaging</a>, allow unprecedented 
 control and measurement of cell activity in the living brain. Methods for managing data for two-photon imaging 
 experiments are improving, but there is little to no standardization of data for holographic stimulation methods. 
