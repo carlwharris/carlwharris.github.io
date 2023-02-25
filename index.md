@@ -1,11 +1,12 @@
 <h1 style="font-size:2em;">About</h1>
 
-Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), working on:
+Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), interested in the applications of machine learning to healthcare and neuroscience. Currently working on:
 
-* Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
-* Detecting context-dependent changes in encoding from longitudinal neural recording activity
-* 3D pose estimation & unsupervised classification of animal behavior in video
-* Data sharing & transparency by improving standardization of two-photon and holographic photostimulation archival data formats
+* **[Applied ML]:** Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
+* **[Stat. methods]:** Detecting context-dependent changes in neural encoding from longitudinal electrophysiological recordings
+* **[Applied ML]:** 3D pose estimation & unsupervised behavior classification of animals in video
+* **[Open science]:** Improving standardization of two-photon and holographic photostimulation archival data formats
+
 
 <h1 style="font-size:2em;">Education</h1>
 
