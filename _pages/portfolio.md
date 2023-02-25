@@ -13,6 +13,64 @@ redirect_from:
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; ">
 
+<div style="clear: both;">
+    <div style="float: right;vertical-align: middle;">
+    <a href="https://www.nature.com/articles/s41598-023-29574-0">
+            <img src="https://neuroptics.com/wp-content/uploads/2018/05/NSR_1.png" style="height:2em;">
+        </a>
+        <a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1">
+            <img src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:2em;">
+        </a>
+        <a href="https://github.com/carlwharris/DeepAction" >
+            <img align="right" src="../files/GitHub_logo.png" style="height:2em;">
+        </a>
+    </div>
+    <div>
+        <h2 style="font-size:1.5em;">DeepAction Toolbox</h2>
+    </div>
+</div>
+
+<div style="clear: both;padding-top: 0.25em">
+  <div style="float: right; width:50%;padding-left:0.5em">
+   <table style="border:none;">
+    <tr style="border:none">
+        <td style="border:none;padding:0.2em" width="33%">
+			<img src="../files/home_cage_50.gif" style="max-width:100%;height:auto;">
+		</td>
+		<td style="border:none;padding:0.2em" width="33%">
+			<img src="../files/CRIM13S-785.gif" style="max-width:100%;height:auto;">
+		</td>						
+		<td style="border:none;padding:0.2em" width="33%">
+			<img src="../files/CRIM13T-203.gif" style="max-width:100%;height:auto;">
+		</td>
+	</tr>
+	<tr style="border:none;">
+		<td style="border:none;padding:0.2em;" width="33%">
+			<img src="../files/home_cage_182.gif" style="max-width:100%;height:auto;">
+		</td>
+		<td style="border:none;padding:0.2em" width="33%">
+			<img src="../files/CRIM13S-1785.gif" style="max-width:100%;height:auto;">
+		</td>						
+		<td style="border:none;padding:0.2em" width="33%">
+			<img src="../files/CRIM13T-256.gif" style="max-width:100%;height:auto;">
+		</td>
+	</tr>
+    </table>
+  </div>
+  <div >
+    <p style="font-size:1em;margin-top: -0.5em">The identification of animal behavior in video is a critical but time-consuming task in 
+    many areas of research. Here, we introduce DeepAction, a deep learning-based toolbox for automatically annotating 
+    animal behavior in video. Our approach uses features extracted from raw video frames by a pretrained convolutional 
+    neural network to train a recurrent neural network classifier. We evaluate the classifier on two benchmark rodent 
+    datasets and one octopus dataset. We show that it achieves high accuracy, requires little training data, and 
+    surpasses both human agreement and most comparable existing methods. We also create a confidence score for 
+    classifier output, and show that our method provides an accurate estimate of classifier performance and reduces the 
+    time required by human annotators to review and correct automatically-produced annotations. We release our system 
+    and accompanying annotation interface as an open-source MATLAB toolbox.</p>
+  </div>
+</div>
+
+<hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
 <div style="clear: both;">
     <div style="float: right;vertical-align: middle;">
@@ -71,63 +129,6 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
 
 <div style="clear: both;">
-    <div style="float: right;vertical-align: middle;">
-        <a href="https://www.biorxiv.org/content/10.1101/2022.06.20.496909v1">
-            <img src="https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png" style="height:2em;">
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/carlwharris/DeepAction" >
-            <img align="right" src="../files/GitHub_logo.png" style="height:2em;">
-        </a>
-    </div>
-    <div>
-        <h2 style="font-size:1.5em;">DeepAction Toolbox</h2>
-    </div>
-</div>
-
-<div style="clear: both;padding-top: 0.25em">
-  <div style="float: right; width:50%;padding-left:0.5em">
-   <table style="border:none;">
-    <tr style="border:none">
-        <td style="border:none;padding:0.2em" width="33%">
-			<img src="../files/home_cage_50.gif" style="max-width:100%;height:auto;">
-		</td>
-		<td style="border:none;padding:0.2em" width="33%">
-			<img src="../files/CRIM13S-785.gif" style="max-width:100%;height:auto;">
-		</td>						
-		<td style="border:none;padding:0.2em" width="33%">
-			<img src="../files/CRIM13T-203.gif" style="max-width:100%;height:auto;">
-		</td>
-	</tr>
-	<tr style="border:none;">
-		<td style="border:none;padding:0.2em;" width="33%">
-			<img src="../files/home_cage_182.gif" style="max-width:100%;height:auto;">
-		</td>
-		<td style="border:none;padding:0.2em" width="33%">
-			<img src="../files/CRIM13S-1785.gif" style="max-width:100%;height:auto;">
-		</td>						
-		<td style="border:none;padding:0.2em" width="33%">
-			<img src="../files/CRIM13T-256.gif" style="max-width:100%;height:auto;">
-		</td>
-	</tr>
-    </table>
-  </div>
-  <div >
-    <p style="font-size:1em;margin-top: -0.5em">The identification of animal behavior in video is a critical but time-consuming task in 
-    many areas of research. Here, we introduce DeepAction, a deep learning-based toolbox for automatically annotating 
-    animal behavior in video. Our approach uses features extracted from raw video frames by a pretrained convolutional 
-    neural network to train a recurrent neural network classifier. We evaluate the classifier on two benchmark rodent 
-    datasets and one octopus dataset. We show that it achieves high accuracy, requires little training data, and 
-    surpasses both human agreement and most comparable existing methods. We also create a confidence score for 
-    classifier output, and show that our method provides an accurate estimate of classifier performance and reduces the 
-    time required by human annotators to review and correct automatically-produced annotations. We release our system 
-    and accompanying annotation interface as an open-source MATLAB toolbox.</p>
-  </div>
-</div>
-
-<hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; margin-top:-1em">
-
-<div style="clear: both;">
   <div style="float: right;vertical-align: middle;">
    <a href="https://github.com/carlwharris/Discovery-DLC-processing">
 	<img  src="../files/GitHub_logo.png" style="height:2em">
@@ -137,6 +138,8 @@ and photostimulation. It includes <a href="https://pynwb.readthedocs.io/en/stabl
     <h2 style="font-size:1.5em;">HPC keypoint extraction</h2>
   </div>
 </div>
+
+
 
 <img src="../files/pipeline_diagram.png" style="width:60%;float:right;padding-left:0.5em">
 <p style="font-size:1em;">The purpose of this project is to enable the extraction of animal keypoints from very large video datasets via DeepLabCut, on the Dartmouth College <a href="https://rc.dartmouth.edu/index.php/discovery-overview/">Discovery HPC cluster</a>. Videos are recorded & uploaded to a folder in the user's DropBox account, after which the user selects a subset to extract annotations for. For subset, corresponding video files are first downloaded from DropBox onto the user's HPC accounts using an API key. Then, a trained DeepLabCut network is used to extract keypoints from the video. After keypoints have been extracted, the video is deleted, to clear space for the rest of the video files in the batch to be downloaded. In the final step, keypoints uploaded from the HPC to the user's specified DropBox folder.</p>
