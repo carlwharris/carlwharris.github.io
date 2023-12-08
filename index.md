@@ -1,12 +1,8 @@
 <h1 style="font-size:2em;">About</h1>
+Current first year student Ph.D. student in the Department of Biomedical Engineering at Johns Hopkins University, advised by [Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/) and [Suchi Saria](https://suchisaria.jhu.edu/). At Hopkins, I'm working on AI & healthcare projects centered on multimodal modeling of irregularly-sampled clinical time series data, pre-surgical risk stratification with ECG, and conformal prediction of healthcare outcomes.
 
-Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), interested in the applications of machine learning to healthcare and neuroscience. Currently working on:
-
-* **[Applied ML]:** Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
-* **[Stat. methods]:** Detecting context-dependent changes in neural encoding from longitudinal electrophysiological recordings
-* **[Applied ML]:** 3D pose estimation & unsupervised behavior classification of animals in video
-* **[Open science]:** Improving standardization of two-photon and holographic photostimulation archival data formats
-
+<h1 style="font-size:2em;">Prior experience</h1>
+Previously, I was a post postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt). There, I worked on projects related to predicting longitudinal mental health outcomes, detecting context-dependent changes in neural encoding, pose estimation/unsupervised behavior classification, and standardization of neuroscience data. See my [Portfolio](https://carlwharris.github.io/portfolio/) page for details.
 
 <h1 style="font-size:2em;">Education</h1>
 
