@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+<hr style="height:4px; background-color: #696969; margin-bottom:-1.5em">
+
+I no longer update this, please see my [Google Scholar](https://scholar.google.com/citations?user=Llwf_dQAAAAJ&hl=en) 
+for more recent publications.
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-1.5em">
 
