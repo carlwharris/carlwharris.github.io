@@ -13,7 +13,8 @@ redirect_from:
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; ">
 
-
+<br>
+<br>
 <div style="clear: both;">
     <b>I no longer update this; please see CV for recent projects</b>
 </div>
