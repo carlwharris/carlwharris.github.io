@@ -11,6 +11,6 @@ redirect_from:
 
 <hr style="height:4px; background-color: #696969;">
 
-<font size="4"><b>PDF download: <a href="../files/cv.pdf">here</a></b></font> 
+<font size="4"><b>PDF download: <a href="../files/Harris_CV_July_2025.pdf">here</a></b></font> 
 
-<embed src="../files/cv.pdf" width="800px" height="2100px"/>
+<embed src="../files/Harris_CV_July_2025.pdf" width="800px" height="2100px"/>

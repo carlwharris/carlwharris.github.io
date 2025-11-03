@@ -13,6 +13,12 @@ redirect_from:
 
 <hr style="height:4px; background-color: #696969; margin-bottom:-2.5em; ">
 
+<br>
+<br>
+<div style="clear: both;">
+    <b>I no longer update this; please see CV for recent projects</b>
+</div>
+
 <div style="clear: both;">
     <div style="float: right;vertical-align: middle;">
     <a href="https://www.nature.com/articles/s41598-023-29574-0">
