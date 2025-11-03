@@ -1,3 +1,5 @@
+[On this website, I only update my CV from time-to-time. Please see it [HERE](https://carlwharris.github.io/cv/)]
+
 <h1 style="font-size:2em;">About</h1>
 Current first year student Ph.D. student in the Department of Biomedical Engineering at Johns Hopkins University, advised by [Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/) and [Suchi Saria](https://suchisaria.jhu.edu/). At Hopkins, I'm working on AI & healthcare projects centered on multimodal modeling of irregularly-sampled clinical time series data, pre-surgical risk stratification with ECG, and conformal prediction of healthcare outcomes.
 
